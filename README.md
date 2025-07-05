@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c0131c7-9f2d-4e3b-b47c-9679e76d8f9a" alt="Prepwise Banner" />
+
   <h1>Prepwise</h1>
   <h4>An AI-powered job interview platform for practicing with voice agents and getting real-time feedback</h4>
 
